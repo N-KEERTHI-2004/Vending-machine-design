@@ -1,4 +1,3 @@
-# Vending-machine-design
 # Vending Machine Controller (Verilog RTL)
 
 This project is a **Verilog RTL-based implementation of a configurable vending machine controller**.  
